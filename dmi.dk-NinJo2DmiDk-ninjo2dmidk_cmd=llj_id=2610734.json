@@ -5,37 +5,10 @@
   "longitude": 12.48713,
   "latitude": 55.68361,
   "timezone": "Europe/Copenhagen",
-  "lastupdate": "20260221163257",
+  "lastupdate": "20260221163259",
   "sunrise": "721",
   "sunset": "1727",
   "timeserie": [
-    {
-      "time": "20260221170000",
-      "localTimeIso": "2026-02-21T17:00:00+01:00",
-      "temp": 3.9979858,
-      "symbol": 3,
-      "precip1": 0.11505699,
-      "precipType": "regn",
-      "windDir": "V",
-      "windDegree": 273.94543,
-      "windSpeed": 6.15160957921088,
-      "windGust": 11.8730955,
-      "humidity": 93.42833,
-      "pressure": 1007.8094,
-      "visibility": 5801.045,
-      "precip3": 0.25945187,
-      "precip6": 0.32424927,
-      "temp10": 3.6385193,
-      "temp50": 4.141388,
-      "temp90": 4.6336975,
-      "prec10": 0.0058898926,
-      "prec50": 0.014289856,
-      "prec75": 0.032907486,
-      "prec90": 0.12571526,
-      "windspeed10": 4.842834,
-      "windspeed50": 5.6474295,
-      "windspeed90": 6.4985094
-    },
     {
       "time": "20260221180000",
       "localTimeIso": "2026-02-21T18:00:00+01:00",
@@ -2528,7 +2501,7 @@
       "minTemp": 2,
       "meanTemp": 3,
       "maxTemp": 4,
-      "precipSum": 0.11903572,
+      "precipSum": 0.0039787292,
       "uvRadiation": 1.1
     },
     {
@@ -2623,18 +2596,6 @@
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260221173000",
-      "localTimeIso": "2026-02-21T17:30:00+01:00",
-      "symbol6": 3,
-      "prec6": 0.0013694763,
-      "minTemp6": 3.8714905,
-      "meanTemp6": 3.9347382,
-      "maxTemp6": 3.9979858,
-      "windDir6": "V",
-      "windDegree6": 277.9994,
-      "windSpeed6": 5.7920566
-    },
     {
       "time": "20260221210000",
       "localTimeIso": "2026-02-21T21:00:00+01:00",
@@ -2733,11 +2694,6 @@
     }
   ],
   "twelveHourSymbols": [
-    {
-      "time": "20260221173000",
-      "localTimeIso": "2026-02-21T17:30:00+01:00",
-      "symbol12": 3
-    },
     {
       "time": "20260222120000",
       "localTimeIso": "2026-02-22T12:00:00+01:00",
