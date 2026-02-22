@@ -5,37 +5,10 @@
   "longitude": 12.48713,
   "latitude": 55.68361,
   "timezone": "Europe/Copenhagen",
-  "lastupdate": "20260222163304",
+  "lastupdate": "20260222163305",
   "sunrise": "719",
   "sunset": "1729",
   "timeserie": [
-    {
-      "time": "20260222170000",
-      "localTimeIso": "2026-02-22T17:00:00+01:00",
-      "temp": 1.0956421,
-      "symbol": 3,
-      "precip1": 0.030351639,
-      "precipType": "slud",
-      "windDir": "SSÃ",
-      "windDegree": 155.90842,
-      "windSpeed": 4.156480366912292,
-      "windGust": 10.210716,
-      "humidity": 98.743324,
-      "pressure": 1006.34314,
-      "visibility": 264.7894,
-      "precip3": 0.15722752,
-      "precip6": 1.4038086,
-      "temp10": 1.1586609,
-      "temp50": 1.3172302,
-      "temp90": 1.5691223,
-      "prec10": 0.04125595,
-      "prec50": 0.72603226,
-      "prec75": 1.3014202,
-      "prec90": 1.6497574,
-      "windspeed10": 3.595763,
-      "windspeed50": 4.1765437,
-      "windspeed90": 4.6475186
-    },
     {
       "time": "20260222180000",
       "localTimeIso": "2026-02-22T18:00:00+01:00",
@@ -2528,7 +2501,7 @@
       "minTemp": 1,
       "meanTemp": 1,
       "maxTemp": 2,
-      "precipSum": 1.8441982,
+      "precipSum": 1.8138466,
       "uvRadiation": 1.2
     },
     {
@@ -2623,18 +2596,6 @@
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260222173000",
-      "localTimeIso": "2026-02-22T17:30:00+01:00",
-      "symbol6": 3,
-      "prec6": 0.41843414,
-      "minTemp6": 1.0956421,
-      "meanTemp6": 1.1000214,
-      "maxTemp6": 1.1044006,
-      "windDir6": "SÃ",
-      "windDegree6": 127.601715,
-      "windSpeed6": 3.7364526
-    },
     {
       "time": "20260222210000",
       "localTimeIso": "2026-02-22T21:00:00+01:00",
@@ -2733,11 +2694,6 @@
     }
   ],
   "twelveHourSymbols": [
-    {
-      "time": "20260222173000",
-      "localTimeIso": "2026-02-22T17:30:00+01:00",
-      "symbol12": 3
-    },
     {
       "time": "20260223120000",
       "localTimeIso": "2026-02-23T12:00:00+01:00",
