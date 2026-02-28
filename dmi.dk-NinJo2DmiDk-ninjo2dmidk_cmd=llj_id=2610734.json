@@ -5,37 +5,10 @@
   "longitude": 12.48713,
   "latitude": 55.68361,
   "timezone": "Europe/Copenhagen",
-  "lastupdate": "20260228073714",
+  "lastupdate": "20260228073712",
   "sunrise": "704",
   "sunset": "1741",
   "timeserie": [
-    {
-      "time": "20260228070000",
-      "localTimeIso": "2026-02-28T07:00:00+01:00",
-      "temp": 5.544586,
-      "symbol": 163,
-      "precip1": 4.143833,
-      "precipType": "regn",
-      "windDir": "SSÃ",
-      "windDegree": 160.063,
-      "windSpeed": 1.5079800211293803,
-      "windGust": 3.5969071,
-      "humidity": 96.28545,
-      "pressure": 1012.7981,
-      "visibility": 2362.9275,
-      "precip3": 6.118824,
-      "precip6": 1.991272,
-      "temp10": 5.2780457,
-      "temp50": 5.830414,
-      "temp90": 6.576538,
-      "prec10": 0.22832489,
-      "prec50": 0.3802452,
-      "prec75": 0.63298607,
-      "prec90": 1.2842407,
-      "windspeed10": 1.1928515,
-      "windspeed50": 1.7590274,
-      "windspeed90": 2.1888006
-    },
     {
       "time": "20260228080000",
       "localTimeIso": "2026-02-28T08:00:00+01:00",
@@ -2528,7 +2501,7 @@
       "minTemp": 5,
       "meanTemp": 6,
       "maxTemp": 8,
-      "precipSum": 8.770481,
+      "precipSum": 4.626648,
       "uvRadiation": 1.4
     },
     {
@@ -2615,16 +2588,16 @@
   ],
   "sixHourSymbols": [
     {
-      "time": "20260228093000",
-      "localTimeIso": "2026-02-28T09:30:00+01:00",
+      "time": "20260228100000",
+      "localTimeIso": "2026-02-28T10:00:00+01:00",
       "symbol6": 60,
-      "prec6": 1.946106,
+      "prec6": 1.3233223,
       "minTemp6": 4.9852905,
-      "meanTemp6": 6.183126,
+      "meanTemp6": 6.310834,
       "maxTemp6": 7.1548157,
       "windDir6": "SV",
       "windDegree6": 235.9182,
-      "windSpeed6": 1.5830522
+      "windSpeed6": 1.5980667
     },
     {
       "time": "20260228150000",
@@ -2725,8 +2698,8 @@
   ],
   "twelveHourSymbols": [
     {
-      "time": "20260228123000",
-      "localTimeIso": "2026-02-28T12:30:00+01:00",
+      "time": "20260228130000",
+      "localTimeIso": "2026-02-28T13:00:00+01:00",
       "symbol12": 60
     },
     {
