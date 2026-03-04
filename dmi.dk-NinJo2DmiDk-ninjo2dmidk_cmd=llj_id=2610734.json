@@ -10,33 +10,6 @@
   "sunset": "1750",
   "timeserie": [
     {
-      "time": "20260304180000",
-      "localTimeIso": "2026-03-04T18:00:00+01:00",
-      "temp": 6.6598206,
-      "symbol": 101,
-      "precip1": 0.0,
-      "precipType": "regn",
-      "windDir": "VNV",
-      "windDegree": 287.99762,
-      "windSpeed": 2.57069899601149,
-      "windGust": 5.3725758,
-      "humidity": 85.16662,
-      "pressure": 1027.0463,
-      "visibility": 50000.0,
-      "precip3": 0.0,
-      "precip6": 0.0,
-      "temp10": 6.025299,
-      "temp50": 6.953827,
-      "temp90": 7.3769836,
-      "prec10": 0.0,
-      "prec50": 0.0,
-      "prec75": 0.0,
-      "prec90": 0.000015258789,
-      "windspeed10": 2.1566849,
-      "windspeed50": 2.5330389,
-      "windspeed90": 3.0428197
-    },
-    {
       "time": "20260304190000",
       "localTimeIso": "2026-03-04T19:00:00+01:00",
       "temp": 5.3419495,
@@ -2554,7 +2527,7 @@
       "localTimeIso": "2026-03-04T23:00:00+01:00",
       "minTemp": 3,
       "meanTemp": 4,
-      "maxTemp": 7,
+      "maxTemp": 5,
       "precipSum": 0.0,
       "uvRadiation": 1.4
     },
@@ -2651,16 +2624,16 @@
   ],
   "sixHourSymbols": [
     {
-      "time": "20260304210000",
-      "localTimeIso": "2026-03-04T21:00:00+01:00",
+      "time": "20260304213000",
+      "localTimeIso": "2026-03-04T21:30:00+01:00",
       "symbol6": 101,
       "prec6": 0.0,
       "minTemp6": 2.462677,
-      "meanTemp6": 4.170493,
-      "maxTemp6": 6.6598206,
+      "meanTemp6": 3.755605,
+      "maxTemp6": 5.3419495,
       "windDir6": "VNV",
-      "windDegree6": 283.06857,
-      "windSpeed6": 2.2050564
+      "windDegree6": 286.58246,
+      "windSpeed6": 2.144116
     },
     {
       "time": "20260305030000",
@@ -2745,6 +2718,18 @@
       "windDir6": "SSÃ",
       "windDegree6": 167.38947,
       "windSpeed6": 2.6973648
+    },
+    {
+      "time": "20260306210000",
+      "localTimeIso": "2026-03-06T21:00:00+01:00",
+      "symbol6": 101,
+      "prec6": 0.0,
+      "minTemp6": 3.2445374,
+      "meanTemp6": 4.0332093,
+      "maxTemp6": 5.7501526,
+      "windDir6": "S",
+      "windDegree6": 174.67484,
+      "windSpeed6": 2.0604482
     }
   ],
   "twelveHourSymbols": [
