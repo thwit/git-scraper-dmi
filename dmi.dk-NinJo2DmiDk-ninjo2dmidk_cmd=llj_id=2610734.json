@@ -10,33 +10,6 @@
   "sunset": "1754",
   "timeserie": [
     {
-      "time": "20260306050000",
-      "localTimeIso": "2026-03-06T05:00:00+01:00",
-      "temp": 0.9256897,
-      "symbol": 101,
-      "precip1": 0.0,
-      "precipType": "slud",
-      "windDir": "SÃ",
-      "windDegree": 136.96184,
-      "windSpeed": 2.0817582343277534,
-      "windGust": 3.1489346,
-      "humidity": 90.46126,
-      "pressure": 1024.5863,
-      "visibility": 7515.7104,
-      "precip3": 0.0,
-      "precip6": 0.0,
-      "temp10": 0.3600769,
-      "temp50": 1.5875244,
-      "temp90": 2.5798035,
-      "prec10": 0.0,
-      "prec50": 0.0,
-      "prec75": 0.004404068,
-      "prec90": 0.013343811,
-      "windspeed10": 1.807801,
-      "windspeed50": 2.2596748,
-      "windspeed90": 2.629902
-    },
-    {
       "time": "20260306060000",
       "localTimeIso": "2026-03-06T06:00:00+01:00",
       "temp": 0.7081604,
@@ -2526,10 +2499,10 @@
       "time": "20260306",
       "localTimeIso": "2026-03-06T23:00:00+01:00",
       "minTemp": 1,
-      "meanTemp": 5,
+      "meanTemp": 6,
       "maxTemp": 10,
       "precipSum": 0.0,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.3
     },
     {
       "time": "20260307",
@@ -2547,7 +2520,7 @@
       "meanTemp": 4,
       "maxTemp": 7,
       "precipSum": 0.09208679,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260309",
@@ -2556,7 +2529,7 @@
       "meanTemp": 4,
       "maxTemp": 7,
       "precipSum": 0.0,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260310",
@@ -2565,7 +2538,7 @@
       "meanTemp": 5,
       "maxTemp": 9,
       "precipSum": 0.015258789,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260311",
@@ -2574,7 +2547,7 @@
       "meanTemp": 6,
       "maxTemp": 8,
       "precipSum": 0.4374186,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260312",
@@ -2583,7 +2556,7 @@
       "meanTemp": 7,
       "maxTemp": 11,
       "precipSum": 4.852294,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260313",
@@ -2592,7 +2565,7 @@
       "meanTemp": 6,
       "maxTemp": 7,
       "precipSum": 3.2501223,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260314",
@@ -2601,7 +2574,7 @@
       "meanTemp": 5,
       "maxTemp": 6,
       "precipSum": 7.563274,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     },
     {
       "time": "20260315",
@@ -2610,22 +2583,10 @@
       "meanTemp": 5,
       "maxTemp": 7,
       "precipSum": 1.1698403,
-      "uvRadiation": 1.4
+      "uvRadiation": 1.5
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260306053000",
-      "localTimeIso": "2026-03-06T05:30:00+01:00",
-      "symbol6": 101,
-      "prec6": 0.0,
-      "minTemp6": 0.7081604,
-      "meanTemp6": 0.81692505,
-      "maxTemp6": 0.9256897,
-      "windDir6": "SSÃ",
-      "windDegree6": 152.1607,
-      "windSpeed6": 1.939401
-    },
     {
       "time": "20260306090000",
       "localTimeIso": "2026-03-06T09:00:00+01:00",
