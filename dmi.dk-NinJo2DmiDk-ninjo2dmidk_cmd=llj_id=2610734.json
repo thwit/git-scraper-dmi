@@ -10,33 +10,6 @@
   "sunset": "1758",
   "timeserie": [
     {
-      "time": "20260308160000",
-      "localTimeIso": "2026-03-08T16:00:00+01:00",
-      "temp": 7.3993225,
-      "symbol": 3,
-      "precip1": 0.0,
-      "precipType": "regn",
-      "windDir": "SSÃ",
-      "windDegree": 158.85396,
-      "windSpeed": 1.5341399034068235,
-      "windGust": 4.5432205,
-      "humidity": 78.00128,
-      "pressure": 1028.6957,
-      "visibility": 13762.951,
-      "precip3": 0.0,
-      "precip6": 0.102996826,
-      "temp10": 8.050873,
-      "temp50": 9.286957,
-      "temp90": 9.853577,
-      "prec10": 0.0,
-      "prec50": 0.0,
-      "prec75": 0.0002708435,
-      "prec90": 0.012863159,
-      "windspeed10": 1.5485057,
-      "windspeed50": 1.9766809,
-      "windspeed90": 2.6102126
-    },
-    {
       "time": "20260308170000",
       "localTimeIso": "2026-03-08T17:00:00+01:00",
       "temp": 7.752289,
@@ -2569,7 +2542,7 @@
     },
     {
       "time": "20260310",
-      "localTimeIso": "2026-03-10T22:00:00+01:00",
+      "localTimeIso": "2026-03-10T23:00:00+01:00",
       "minTemp": 2,
       "meanTemp": 5,
       "maxTemp": 8,
@@ -2651,16 +2624,16 @@
   ],
   "sixHourSymbols": [
     {
-      "time": "20260308170000",
-      "localTimeIso": "2026-03-08T17:00:00+01:00",
-      "symbol6": 2,
+      "time": "20260308173000",
+      "localTimeIso": "2026-03-08T17:30:00+01:00",
+      "symbol6": 1,
       "prec6": 0.0,
       "minTemp6": 7.228302,
-      "meanTemp6": 7.459971,
+      "meanTemp6": 7.4902954,
       "maxTemp6": 7.752289,
-      "windDir6": "SSÃ",
-      "windDegree6": 151.13446,
-      "windSpeed6": 1.6702238
+      "windDir6": "SÃ",
+      "windDegree6": 142.45197,
+      "windSpeed6": 1.738266
     },
     {
       "time": "20260308210000",
@@ -2761,9 +2734,9 @@
   ],
   "twelveHourSymbols": [
     {
-      "time": "20260308170000",
-      "localTimeIso": "2026-03-08T17:00:00+01:00",
-      "symbol12": 2
+      "time": "20260308173000",
+      "localTimeIso": "2026-03-08T17:30:00+01:00",
+      "symbol12": 1
     },
     {
       "time": "20260309120000",
