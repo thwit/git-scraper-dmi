@@ -5,37 +5,10 @@
   "longitude": 12.48713,
   "latitude": 55.68361,
   "timezone": "Europe/Copenhagen",
-  "lastupdate": "20260310193550",
+  "lastupdate": "20260310205842",
   "sunrise": "639",
   "sunset": "1802",
   "timeserie": [
-    {
-      "time": "20260310200000",
-      "localTimeIso": "2026-03-10T20:00:00+01:00",
-      "temp": 6.9239807,
-      "symbol": 103,
-      "precip1": 0.008907318,
-      "precipType": "regn",
-      "windDir": "V",
-      "windDegree": 274.5897,
-      "windSpeed": 1.6233813220117121,
-      "windGust": 3.629249,
-      "humidity": 94.86578,
-      "pressure": 1014.0069,
-      "visibility": 4554.3696,
-      "precip3": 0.024713516,
-      "precip6": 0.0,
-      "temp10": 6.7538147,
-      "temp50": 7.2046814,
-      "temp90": 8.023651,
-      "prec10": 0.0049057007,
-      "prec50": 0.009540558,
-      "prec75": 0.014593124,
-      "prec90": 0.021324158,
-      "windspeed10": 1.0602521,
-      "windspeed50": 1.7499437,
-      "windspeed90": 2.3377953
-    },
     {
       "time": "20260310210000",
       "localTimeIso": "2026-03-10T21:00:00+01:00",
@@ -2501,7 +2474,7 @@
       "minTemp": 6,
       "meanTemp": 7,
       "maxTemp": 7,
-      "precipSum": 0.062164307,
+      "precipSum": 0.05325699,
       "uvRadiation": 1.7
     },
     {
@@ -2597,16 +2570,16 @@
   ],
   "sixHourSymbols": [
     {
-      "time": "20260310220000",
-      "localTimeIso": "2026-03-10T22:00:00+01:00",
+      "time": "20260310223000",
+      "localTimeIso": "2026-03-10T22:30:00+01:00",
       "symbol6": 103,
-      "prec6": 0.07360077,
+      "prec6": 0.06036377,
       "minTemp6": 6.358307,
-      "meanTemp6": 6.579352,
-      "maxTemp6": 6.9239807,
-      "windDir6": "SV",
-      "windDegree6": 214.57312,
-      "windSpeed6": 1.5245728
+      "meanTemp6": 6.4931946,
+      "maxTemp6": 6.6388245,
+      "windDir6": "S",
+      "windDegree6": 182.87926,
+      "windSpeed6": 1.4998708
     },
     {
       "time": "20260311030000",
