@@ -10,33 +10,6 @@
   "sunset": "1810",
   "timeserie": [
     {
-      "time": "20260314110000",
-      "localTimeIso": "2026-03-14T11:00:00+01:00",
-      "temp": 4.0921936,
-      "symbol": 60,
-      "precip1": 0.6160183,
-      "precipType": "regn",
-      "windDir": "NNV",
-      "windDegree": 348.42807,
-      "windSpeed": 2.144711346177581,
-      "windGust": 4.7536874,
-      "humidity": 89.14933,
-      "pressure": 1000.3194,
-      "visibility": 34958.1,
-      "precip3": 1.8955345,
-      "precip6": 3.6582947,
-      "temp10": 2.3244324,
-      "temp50": 3.2661133,
-      "temp90": 4.251251,
-      "prec10": 0.1508789,
-      "prec50": 0.41608047,
-      "prec75": 0.5925312,
-      "prec90": 0.6709633,
-      "windspeed10": 1.9700044,
-      "windspeed50": 2.472769,
-      "windspeed90": 3.0006056
-    },
-    {
       "time": "20260314120000",
       "localTimeIso": "2026-03-14T12:00:00+01:00",
       "temp": 4.3424377,
@@ -1336,7 +1309,7 @@
       "time": "20260316120000",
       "localTimeIso": "2026-03-16T12:00:00+01:00",
       "temp": 3.2240295,
-      "symbol": 60,
+      "symbol": 3,
       "precip1": 0.32756042,
       "precipType": "regn",
       "windDir": "S",
@@ -2582,7 +2555,7 @@
       "minTemp": 4,
       "meanTemp": 6,
       "maxTemp": 7,
-      "precipSum": 1.6487637,
+      "precipSum": 1.0327454,
       "uvRadiation": 1.6
     },
     {
@@ -2677,18 +2650,6 @@
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260314113000",
-      "localTimeIso": "2026-03-14T11:30:00+01:00",
-      "symbol6": 60,
-      "prec6": 0.13155365,
-      "minTemp6": 4.0921936,
-      "meanTemp6": 4.2173157,
-      "maxTemp6": 4.3424377,
-      "windDir6": "N",
-      "windDegree6": 357.31213,
-      "windSpeed6": 2.090873
-    },
     {
       "time": "20260314150000",
       "localTimeIso": "2026-03-14T15:00:00+01:00",
@@ -2788,8 +2749,8 @@
   ],
   "twelveHourSymbols": [
     {
-      "time": "20260314143000",
-      "localTimeIso": "2026-03-14T14:30:00+01:00",
+      "time": "20260314150000",
+      "localTimeIso": "2026-03-14T15:00:00+01:00",
       "symbol12": 2
     },
     {
