@@ -10,33 +10,6 @@
   "sunset": "1812",
   "timeserie": [
     {
-      "time": "20260315160000",
-      "localTimeIso": "2026-03-15T16:00:00+01:00",
-      "temp": 8.319733,
-      "symbol": 3,
-      "precip1": 0.0003299713,
-      "precipType": "regn",
-      "windDir": "VSV",
-      "windDegree": 248.64919,
-      "windSpeed": 2.7234434634398905,
-      "windGust": 7.0265985,
-      "humidity": 65.04365,
-      "pressure": 1012.93,
-      "visibility": 19843.152,
-      "precip3": 0.0074539185,
-      "precip6": 0.038146973,
-      "temp10": 6.7783813,
-      "temp50": 7.523651,
-      "temp90": 8.637543,
-      "prec10": -0.00018882751,
-      "prec50": 0.00064849854,
-      "prec75": 0.004863739,
-      "prec90": 0.006652832,
-      "windspeed10": 2.4290843,
-      "windspeed50": 2.8143227,
-      "windspeed90": 3.1879592
-    },
-    {
       "time": "20260315170000",
       "localTimeIso": "2026-03-15T17:00:00+01:00",
       "temp": 7.820465,
@@ -2555,7 +2528,7 @@
       "minTemp": 3,
       "meanTemp": 5,
       "maxTemp": 8,
-      "precipSum": 0.0048503876,
+      "precipSum": 0.0045204163,
       "uvRadiation": 1.4
     },
     {
@@ -2569,7 +2542,7 @@
     },
     {
       "time": "20260317",
-      "localTimeIso": "2026-03-17T22:00:00+01:00",
+      "localTimeIso": "2026-03-17T23:00:00+01:00",
       "minTemp": 1,
       "meanTemp": 5,
       "maxTemp": 9,
@@ -2651,16 +2624,16 @@
   ],
   "sixHourSymbols": [
     {
-      "time": "20260315170000",
-      "localTimeIso": "2026-03-15T17:00:00+01:00",
+      "time": "20260315173000",
+      "localTimeIso": "2026-03-15T17:30:00+01:00",
       "symbol6": 2,
-      "prec6": 0.0038452148,
+      "prec6": 0.0007839203,
       "minTemp6": 6.7289124,
-      "meanTemp6": 7.623037,
-      "maxTemp6": 8.319733,
+      "meanTemp6": 7.2746887,
+      "maxTemp6": 7.820465,
       "windDir6": "SSV",
-      "windDegree6": 211.35423,
-      "windSpeed6": 3.0634449
+      "windDegree6": 208.51704,
+      "windSpeed6": 3.2334456
     },
     {
       "time": "20260315210000",
@@ -2761,8 +2734,8 @@
   ],
   "twelveHourSymbols": [
     {
-      "time": "20260315170000",
-      "localTimeIso": "2026-03-15T17:00:00+01:00",
+      "time": "20260315173000",
+      "localTimeIso": "2026-03-15T17:30:00+01:00",
       "symbol12": 2
     },
     {
