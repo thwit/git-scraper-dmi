@@ -10,33 +10,6 @@
   "sunset": "1812",
   "timeserie": [
     {
-      "time": "20260315170000",
-      "localTimeIso": "2026-03-15T17:00:00+01:00",
-      "temp": 7.820465,
-      "symbol": 3,
-      "precip1": 0.0030612946,
-      "precipType": "regn",
-      "windDir": "SSV",
-      "windDegree": 211.35423,
-      "windSpeed": 3.0482320257767768,
-      "windGust": 6.00113,
-      "humidity": 70.35363,
-      "pressure": 1013.0662,
-      "visibility": 50000.0,
-      "precip3": 0.006863594,
-      "precip6": 0.045776367,
-      "temp10": 6.555725,
-      "temp50": 7.2114563,
-      "temp90": 7.742584,
-      "prec10": -0.00020599365,
-      "prec50": 0.00037384033,
-      "prec75": 0.003080368,
-      "prec90": 0.0062179565,
-      "windspeed10": 2.5928495,
-      "windspeed50": 3.267111,
-      "windspeed90": 3.8314147
-    },
-    {
       "time": "20260315180000",
       "localTimeIso": "2026-03-15T18:00:00+01:00",
       "temp": 6.7289124,
@@ -2526,9 +2499,9 @@
       "time": "20260315",
       "localTimeIso": "2026-03-15T23:00:00+01:00",
       "minTemp": 3,
-      "meanTemp": 5,
-      "maxTemp": 8,
-      "precipSum": 0.0045204163,
+      "meanTemp": 4,
+      "maxTemp": 7,
+      "precipSum": 0.0014591217,
       "uvRadiation": 1.4
     },
     {
@@ -2623,18 +2596,6 @@
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260315173000",
-      "localTimeIso": "2026-03-15T17:30:00+01:00",
-      "symbol6": 2,
-      "prec6": 0.0007839203,
-      "minTemp6": 6.7289124,
-      "meanTemp6": 7.2746887,
-      "maxTemp6": 7.820465,
-      "windDir6": "SSV",
-      "windDegree6": 208.51704,
-      "windSpeed6": 3.2334456
-    },
     {
       "time": "20260315210000",
       "localTimeIso": "2026-03-15T21:00:00+01:00",
@@ -2733,11 +2694,6 @@
     }
   ],
   "twelveHourSymbols": [
-    {
-      "time": "20260315173000",
-      "localTimeIso": "2026-03-15T17:30:00+01:00",
-      "symbol12": 2
-    },
     {
       "time": "20260316120000",
       "localTimeIso": "2026-03-16T12:00:00+01:00",
