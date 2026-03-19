@@ -5,37 +5,10 @@
   "longitude": 12.48713,
   "latitude": 55.68361,
   "timezone": "Europe/Copenhagen",
-  "lastupdate": "20260319163828",
+  "lastupdate": "20260319183054",
   "sunrise": "616",
   "sunset": "1820",
   "timeserie": [
-    {
-      "time": "20260319170000",
-      "localTimeIso": "2026-03-19T17:00:00+01:00",
-      "temp": 6.0865784,
-      "symbol": 60,
-      "precip1": 0.21840668,
-      "precipType": "regn",
-      "windDir": "NV",
-      "windDegree": 312.65683,
-      "windSpeed": 3.4344782639339226,
-      "windGust": 6.8846636,
-      "humidity": 93.701614,
-      "pressure": 1023.3063,
-      "visibility": 27770.736,
-      "precip3": 0.55914307,
-      "precip6": 0.33569336,
-      "temp10": 6.2729187,
-      "temp50": 6.753998,
-      "temp90": 7.3525085,
-      "prec10": 0.003929138,
-      "prec50": 0.07972717,
-      "prec75": 0.18809128,
-      "prec90": 0.31628036,
-      "windspeed10": 2.1103148,
-      "windspeed50": 2.876475,
-      "windspeed90": 3.34015
-    },
     {
       "time": "20260319180000",
       "localTimeIso": "2026-03-19T18:00:00+01:00",
@@ -2528,7 +2501,7 @@
       "minTemp": 3,
       "meanTemp": 5,
       "maxTemp": 6,
-      "precipSum": 0.3824997,
+      "precipSum": 0.16409302,
       "uvRadiation": 2.1
     },
     {
@@ -2623,18 +2596,6 @@
     }
   ],
   "sixHourSymbols": [
-    {
-      "time": "20260319173000",
-      "localTimeIso": "2026-03-19T17:30:00+01:00",
-      "symbol6": 3,
-      "prec6": 0.14247131,
-      "minTemp6": 6.0865784,
-      "meanTemp6": 6.097931,
-      "maxTemp6": 6.1092834,
-      "windDir6": "NV",
-      "windDegree6": 309.70468,
-      "windSpeed6": 2.8647387
-    },
     {
       "time": "20260319210000",
       "localTimeIso": "2026-03-19T21:00:00+01:00",
@@ -2733,11 +2694,6 @@
     }
   ],
   "twelveHourSymbols": [
-    {
-      "time": "20260319173000",
-      "localTimeIso": "2026-03-19T17:30:00+01:00",
-      "symbol12": 3
-    },
     {
       "time": "20260320120000",
       "localTimeIso": "2026-03-20T12:00:00+01:00",
